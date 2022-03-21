@@ -7,19 +7,19 @@ Creating a webpage with an dynamic table which allows the user to filter for mul
 
 The top of the webpage looked like the following: 
 
-![Webpage](/Static/images/Webpage.png)
+![Webpage](/static/images/Webpage.png)
 
 The current table and filter selection is shown below: 
 
-![table](/Static/images/table.png)
+![table](/static/images/table.png)
 
 On the left side, where the Filter Search is location, the user is able to type what one wants to search. After the user has typed the requirements, pressing "Enter" or "Tab" to go to the next white box. The table will then automattcally update as shown: 
 
-![Date](/Static/images/Date.png)
+![Date](/static/images/Date.png)
 
 The user can use all or selected the filters, and if there are no entries then the table will be blank. 
 
-![No Entries](/Static/images/no_entries.png)
+![No Entries](/static/images/no_entries.png)
 
 ## Summary
 
